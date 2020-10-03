@@ -1,7 +1,9 @@
 SlideRuler
 ===========
 [
-![Screenshot Of applet](AppletScreenshot.png?raw=true "Screenshot Of applet")](http://robbbb.github.io/VectorRuler/)
+![Screenshot Of applet](AppletScreenshot.png?raw=true "Screenshot Of applet")](http://johntayse.github.io/SlideRuler/)
+
+- https://johntayse.github.io/SlideRuler
 
 A Javascript-based generator of laser cutter friendly etchable slide rules
 ### Features
